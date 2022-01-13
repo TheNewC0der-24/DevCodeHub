@@ -1,0 +1,84 @@
+@media screen and (max-width: 510px ) {
+    .container{
+        top: 7rem;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left,
+    .right{
+        height: 50%;
+        width: 100%;
+        border: 1px solid #d5d5d5;
+    }
+
+    .bar{
+        height: 4px;
+        width: 100%;
+    }
+
+    .credits {
+        text-align: center;
+        padding: 5px;
+        background: #d5d5d5;
+    }
+}
+
+@media (max-width: 500px ) and (min-width: 405px) {
+    .btn{
+        font-size: 15px;
+        padding: 6px 15px;
+    }
+
+    .live,
+    .editor{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 405px ) and (min-width: 380px) {
+    .btn{
+        font-size: 14px;
+        padding: 6px 15px;
+    }
+
+    .live,
+    .editor{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 380px ) and (min-width: 320px) {
+    .btn{
+        font-size: 12px;
+        padding: 6px 10px;
+        margin-right: 5px;
+    }
+
+    .live{
+        font-size: 12px;
+        padding: 3px 5px;
+    }
+
+    .editor{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px ) and (min-width: 200px) {
+    .btn{
+        font-size: 10px;
+        padding: 6px 10px;
+        margin-right: 5px;
+    }
+
+    .live{
+        font-size: 10px;
+        padding: 3px 5px;
+    }
+
+    .editor{
+        font-size: 10px;
+    }
+}
