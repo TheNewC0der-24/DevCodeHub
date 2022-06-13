@@ -19,7 +19,9 @@ This Code Editor has a feature of `Dark` and `Light` mode. Also there is a Live 
 </p>
 
 ## Link
-	https://thenewc0der-24.github.io/Code-Editor/
+```
+https://thenewc0der-24.github.io/Code-Editor/
+```
   
 ---
 <p align="center">Hope you like this Code Editor :)</p>
