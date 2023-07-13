@@ -1,8 +1,7 @@
-<h1 align="center">Code Editor</h1>
+<h1 align="center">DevCodeHub</h1>
 
 ## About
-A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an 
-integrated development environment or web browser.
+A web application that serves as a clone of the popular W3Schools editor, built using HTML, CSS, and JavaScript. This editor provides a user-friendly interface for writing and testing HTML, CSS, and JS code in real-time, making it a valuable tool for learning and experimenting with web development.
 
 ## Built With
 * HTML
